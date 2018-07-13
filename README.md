@@ -81,8 +81,13 @@ licensed** (see individual repositories for details).
 
 Emojitracker also provides a [REST API][rest-api] and [Streaming API][stream-api].
 
-[rest-api]: https://github.com/emojitracker/emojitrack-rest-api
+By using the Emojitracker APIs, you agree to adhere to the [Emojitracker API
+Terms of Use][tou] as well as the [Code of Conduct][coc].
+
+[rest-api]:   https://github.com/emojitracker/emojitrack-rest-api
 [stream-api]: https://github.com/emojitracker/emojitrack-streamer-spec
+[tou]:        https://github.com/mroth/emojitracker/TERMS_OF_USE.md
+[coc]:        https://github.com/mroth/emojitracker/CODE_OF_CONDUCT.md
 
 ## Other Information
 
